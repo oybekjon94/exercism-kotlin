@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._13Kt">
+  <component name="RunManager" selected="Kotlin._14Kt">
     <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples._10Kt" />
       <module name="exercism-kotlin" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples._9Kt" />
+    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples._14Kt" />
       <module name="exercism-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._14Kt" />
         <item itemvalue="Kotlin._13Kt" />
         <item itemvalue="Kotlin._12Kt" />
         <item itemvalue="Kotlin._11Kt" />
         <item itemvalue="Kotlin._10Kt" />
-        <item itemvalue="Kotlin._9Kt" />
       </list>
     </recent_temporary>
   </component>
