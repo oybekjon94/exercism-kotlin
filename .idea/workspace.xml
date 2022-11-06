@@ -37,14 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._16Kt">
-    <configuration name="_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples._12Kt" />
-      <module name="exercism-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._17Kt">
     <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples._13Kt" />
       <module name="exercism-kotlin" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples._17Kt" />
+      <module name="exercism-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._17Kt" />
         <item itemvalue="Kotlin._16Kt" />
         <item itemvalue="Kotlin._15Kt" />
         <item itemvalue="Kotlin._14Kt" />
         <item itemvalue="Kotlin._13Kt" />
-        <item itemvalue="Kotlin._12Kt" />
       </list>
     </recent_temporary>
   </component>
