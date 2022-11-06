@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/18.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._17Kt">
-    <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples._13Kt" />
-      <module name="exercism-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._18Kt">
     <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples._14Kt" />
       <module name="exercism-kotlin" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_18Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples._18Kt" />
+      <module name="exercism-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._18Kt" />
         <item itemvalue="Kotlin._17Kt" />
         <item itemvalue="Kotlin._16Kt" />
         <item itemvalue="Kotlin._15Kt" />
         <item itemvalue="Kotlin._14Kt" />
-        <item itemvalue="Kotlin._13Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667772991999</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="[feat::] Add 16 exercise">
+      <created>1667773188376</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667773188376</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[feat::] Add 17 exercise">
+      <created>1667773341963</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667773341963</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +222,8 @@
     <MESSAGE value="[feat::] Add 13 exercise" />
     <MESSAGE value="[feat::] Add 14 exercise" />
     <MESSAGE value="[feat::] Add 15 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 15 exercise" />
+    <MESSAGE value="[feat::] Add 16 exercise" />
+    <MESSAGE value="[feat::] Add 17 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 17 exercise" />
   </component>
 </project>
