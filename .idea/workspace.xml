@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/27.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667868518395</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="[feat::] Add 26 exercise">
+      <created>1667868776536</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1667868776536</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,6 +295,7 @@
     <MESSAGE value="[feat::] Add 23 exercise" />
     <MESSAGE value="[feat::] Add 24 exercise" />
     <MESSAGE value="[feat::] Add 25 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 25 exercise" />
+    <MESSAGE value="[feat::] Add 26 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 26 exercise" />
   </component>
 </project>
