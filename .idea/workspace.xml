@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/40.kt" afterDir="false" />
+    <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="[feat::] Add 41 exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/42.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._41Kt">
-    <configuration name="_36Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples._36Kt" />
-      <module name="exercism-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._42Kt">
     <configuration name="_37Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples._37Kt" />
       <module name="exercism-kotlin" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_42Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples._42Kt" />
+      <module name="exercism-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._42Kt" />
         <item itemvalue="Kotlin._41Kt" />
         <item itemvalue="Kotlin._40Kt" />
         <item itemvalue="Kotlin._38Kt" />
         <item itemvalue="Kotlin._37Kt" />
-        <item itemvalue="Kotlin._36Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -360,12 +360,24 @@
       <option name="project" value="LOCAL" />
       <updated>1667886016312</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="[feat::] Add 40 exercise">
+      <created>1667888941101</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1667888941101</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[feat::] Add 41 exercise">
+      <created>1667889097321</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1667889097321</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 15 exercise" />
-    <MESSAGE value="[feat::] Add 16 exercise" />
     <MESSAGE value="[feat::] Add 17 exercise" />
     <MESSAGE value="[feat::] Add 18 exercise" />
     <MESSAGE value="[feat::] Add 19 exercise" />
@@ -389,6 +401,8 @@
     <MESSAGE value="[feat::] Add 37 exercise" />
     <MESSAGE value="[feat::] Add 38 exercise" />
     <MESSAGE value="[feat::] Add 39 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 39 exercise" />
+    <MESSAGE value="[feat::] Add 40 exercise" />
+    <MESSAGE value="[feat::] Add 41 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 41 exercise" />
   </component>
 </project>
