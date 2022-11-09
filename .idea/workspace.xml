@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples/46.kt" afterDir="false" />
-    </list>
+    <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -401,11 +399,17 @@
       <option name="project" value="LOCAL" />
       <updated>1667972750006</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="[feat::] Add 46 exercise">
+      <created>1667973146953</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1667973146953</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 21 exercise" />
     <MESSAGE value="[feat::] Add 22 exercise" />
     <MESSAGE value="[feat::] Add 23 exercise" />
     <MESSAGE value="[feat::] Add 24 exercise" />
@@ -430,6 +434,7 @@
     <MESSAGE value="[feat::] Add 43 exercise" />
     <MESSAGE value="[feat::] Add 44 exercise" />
     <MESSAGE value="[feat::] Add 45 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 45 exercise" />
+    <MESSAGE value="[feat::] Add 46 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 46 exercise" />
   </component>
 </project>
