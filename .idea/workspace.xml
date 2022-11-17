@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-4/5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-4/6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._5Kt">
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples-4._1Kt" />
-      <module name="exercism-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._6Kt">
     <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples-4._2Kt" />
       <module name="exercism-kotlin" />
@@ -75,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples-4._6Kt" />
+      <module name="exercism-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667588529712</updated>
-    </task>
-    <task id="LOCAL-00039" summary="[feat::] Add 40 exercise">
-      <created>1667888941101</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1667888941101</updated>
     </task>
     <task id="LOCAL-00040" summary="[feat::] Add 41 exercise">
       <created>1667889097321</created>
@@ -437,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668597508171</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="[feat::] Add 5 exercise">
+      <created>1668661497314</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1668661497314</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -445,7 +444,6 @@
     <MESSAGE value="[feat::] Add 46 exercise" />
     <MESSAGE value="[feat::] Add 47 exercise" />
     <MESSAGE value="[feat::] Add 3&#10; exercise" />
-    <MESSAGE value="[feat::] Add 5 exercise" />
     <MESSAGE value="[feat::] Add 17 exercise" />
     <MESSAGE value="[feat::] Add 18 exercise" />
     <MESSAGE value="[feat::] Add 19 exercise" />
@@ -466,6 +464,7 @@
     <MESSAGE value="[feat::] Add 2 exercise" />
     <MESSAGE value="[feat::] Add 3 exercise" />
     <MESSAGE value="[feat::] Add 4 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 exercise" />
+    <MESSAGE value="[feat::] Add 5 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 5 exercise" />
   </component>
 </project>
