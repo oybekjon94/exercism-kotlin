@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-4/13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-4/14.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667588529712</updated>
-    </task>
-    <task id="LOCAL-00047" summary="[feat::] Add 47 exercise">
-      <created>1667974658003</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1667974658003</updated>
     </task>
     <task id="LOCAL-00048" summary="[feat::] Add 1 exercise">
       <created>1668413388029</created>
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668676386929</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="[feat::] Add 13 exercise">
+      <created>1668677022467</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1668677022467</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -450,7 +450,6 @@
     <MESSAGE value="[feat::] Add 19 exercise" />
     <MESSAGE value="[feat::] Add 20 exercise" />
     <MESSAGE value="[feat::] Add 21 exercise" />
-    <MESSAGE value="[feat::] Add 13 exercise" />
     <MESSAGE value="[feat::] Add 14 exercise" />
     <MESSAGE value="[feat::] Add 15 exercise" />
     <MESSAGE value="[feat::] Add 16 exercise" />
@@ -466,6 +465,7 @@
     <MESSAGE value="[feat::] Add 10 exercise" />
     <MESSAGE value="[feat::] Add 11 exercise" />
     <MESSAGE value="[feat::] Add 12 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 12 exercise" />
+    <MESSAGE value="[feat::] Add 13 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 13 exercise" />
   </component>
 </project>
