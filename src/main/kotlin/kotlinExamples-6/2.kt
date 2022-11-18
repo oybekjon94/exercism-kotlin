@@ -20,4 +20,5 @@ fun main(){
 
     println(updatedUser.component1()) // print
     println(updatedUser.component2()) // prints Denis Panjuta
+
 }
