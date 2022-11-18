@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-5/4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-5/6.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._5Kt">
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples-5._1Kt" />
-      <module name="exercism-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._6Kt">
     <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples-5._2Kt" />
       <module name="exercism-kotlin" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples-5._6Kt" />
+      <module name="exercism-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,20 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667588529712</updated>
-    </task>
-    <task id="LOCAL-00054" summary="[feat::] Add 7 exercise">
-      <created>1668420506243</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1668420506243</updated>
-    </task>
-    <task id="LOCAL-00055" summary="[feat::] Add 8 exercise">
-      <created>1668421065748</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1668421065748</updated>
     </task>
     <task id="LOCAL-00056" summary="[feat::] Add 9 exercise">
       <created>1668421666921</created>
@@ -437,7 +423,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668750637820</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="[feat::] Add 4 exercise">
+      <created>1668751672261</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1668751672261</updated>
+    </task>
+    <task id="LOCAL-00104" summary="[feat::] Add 5 exercise">
+      <created>1668751930358</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1668751930358</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -451,8 +451,6 @@
     <MESSAGE value="[feat::] Add 20 exercise" />
     <MESSAGE value="[feat::] Add 21 exercise" />
     <MESSAGE value="[feat::] Add 2 exercise" />
-    <MESSAGE value="[feat::] Add 4 exercise" />
-    <MESSAGE value="[feat::] Add 5 exercise" />
     <MESSAGE value="[feat::] Add 6 exercise" />
     <MESSAGE value="[feat::] Add 7 exercise" />
     <MESSAGE value="[feat::] Add 8 exercise" />
@@ -466,6 +464,8 @@
     <MESSAGE value="[feat::] Add 16 exercise" />
     <MESSAGE value="[feat::] Add 1 exercise" />
     <MESSAGE value="[feat::] Add 3 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3 exercise" />
+    <MESSAGE value="[feat::] Add 4 exercise" />
+    <MESSAGE value="[feat::] Add 5 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 5 exercise" />
   </component>
 </project>
