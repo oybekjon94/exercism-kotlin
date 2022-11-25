@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44388608-7164-42e7-9208-2c8e6fc3ec8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-8/6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kotlinExamples-8/7.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._6Kt">
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinExamples-8._1Kt" />
-      <module name="exercism-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._7Kt">
     <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinExamples-8._2Kt" />
       <module name="exercism-kotlin" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinExamples-8._7Kt" />
+      <module name="exercism-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667588529712</updated>
-    </task>
-    <task id="LOCAL-00099" summary="[feat::] Add 16 exercise">
-      <created>1668748820589</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1668748820589</updated>
     </task>
     <task id="LOCAL-00100" summary="[feat::] Add 1 exercise">
       <created>1668749622106</created>
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669269169971</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="[feat::] Add 6 exercise">
+      <created>1669269401064</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1669269401064</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -452,7 +452,6 @@
     <MESSAGE value="[feat::] Add 21 exercise" />
     <MESSAGE value="[feat::] Add 15 exercise" />
     <MESSAGE value="[feat::] Add 16 exercise" />
-    <MESSAGE value="[feat::] Add 6 exercise" />
     <MESSAGE value="[feat::] Add 7 exercise" />
     <MESSAGE value="[feat::] Add 8 exercise" />
     <MESSAGE value="[feat::] Add 9 exercise" />
@@ -466,7 +465,8 @@
     <MESSAGE value="[feat::] Add 3 exercise" />
     <MESSAGE value="[feat::] Add 4 exercise" />
     <MESSAGE value="[feat::] Add 5 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 5 exercise" />
+    <MESSAGE value="[feat::] Add 6 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 exercise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/exercism_kotlin$_6Kt.ic" NAME="_6Kt Coverage Results" MODIFIED="1668792920581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
